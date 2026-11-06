@@ -10,17 +10,21 @@ Cada integrante poderá acessar os arquivos, realizar alterações e registrar s
 
 ## Registro das contribuições
 
-### Integrante 1
+### João Vitor Souza dos Santos
 - Dica: Utilize o README.md para apresentar o objetivo e as informações principais do projeto.
 
-### Integrante 2
+### Larissa Cristina Maria da Silva
 - Dica: Utilize commits com mensagens claras para identificar as alterações realizadas.
 
-### Integrante 3
+### Gustavo Augusto Xavier Borges Magalhães
 - Dica: Consulte o histórico de commits para acompanhar as modificações feitas no projeto.
 
 ## Dificuldades encontradas
-(Preencher após realizar os testes.)
+Durante a realização da atividade, tivemos algumas dificuldades para entender como funcionava a edição colaborativa dos arquivos no GitHub. Inicialmente, houve dúvidas sobre como salvar as alterações e registrar um commit corretamente.
+
+Também foi necessário compreender a diferença entre branch e repositório principal, principalmente na hora de realizar alterações sem modificar diretamente a versão original.
+
+Para resolver essas dificuldades, consultamos a documentação do GitHub e realizamos testes pelo próprio navegador, o que ajudou a entender melhor o funcionamento da plataforma.
 
 ## Conclusão
 A atividade demonstra como o GitHub facilita o compartilhamento de arquivos, o acompanhamento de alterações e o trabalho em equipe.

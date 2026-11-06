@@ -16,8 +16,8 @@ Desenvolver uma cartilha digital com explicações simples e exemplos práticos 
 
 ## Integrantes
 - João Vitor Souza dos Santos
-- Nome do integrante 2
-- Nome do integrante 3
+- Gustavo Augusto Xavier Borges Magalhães
+- Larissa Cristina Maria da Silva
 
 ## Material
 [ Acessar a cartilha](cartilha.md)
